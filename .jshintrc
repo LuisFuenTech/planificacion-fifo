@@ -1,0 +1,19 @@
+{
+  "strict": true,
+  "bitwise": true,
+  "browser": true,
+  "curly": false,
+  "eqeqeq": false,
+  "latedef": false,
+  "noarg": true,
+  "undef": true,
+  "unused": false,
+  "validthis": true,
+  "jasmine": true,
+  "jquery": true,
+  "devel": true,
+  "globals": {
+    "d3": false,
+    "swal": false
+  }
+}
